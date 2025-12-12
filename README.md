@@ -1,7 +1,7 @@
 # Learning Git and Github!
 ## Subheadline
 
-TEST CONFLICT
+**Messing up with Master Branch now**
 
 Version **control** is an *essential* skill for _developers_ to master, and ~~Git~~ is by far the most popular version control system on the web. In this fast-paced course, author Ray Villalobos `shows` you how to install Git and use the fundamental commands you need to work with Git projects: moving files, managing logs, and working with branches.
 
@@ -43,6 +43,3 @@ console.log(x);
 https://linkedin.com
 
 [![Tomolor](https://pixelprowess.com/i/stargazers/tomolor.png)](https://raybo.org)
-*Just testing the comment section only*
-
-And right now I am testing the conflict here hahahaha
